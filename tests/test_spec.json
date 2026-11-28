@@ -1,0 +1,25 @@
+[
+  {
+    "op": "load_const",
+    "const": 505,
+    "addr": 151
+  },
+  {
+    "op": "load_mem",
+    "addr_src": 341,
+    "offset": 920,
+    "addr_dst": 382
+  },
+  {
+    "op": "store_mem",
+    "addr_ptr": 620,
+    "addr_src": 16
+  },
+  {
+    "op": "lt",
+    "offset": 747,
+    "addr_left": 316,
+    "addr_dst": 123,
+    "addr_right_base": 830
+  }
+]
